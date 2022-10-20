@@ -4,7 +4,7 @@
 
 The [dev documentation](./DEV.md) to deploy locally with a docker-compose script.
 
-The production environment relies on kubernetes. To setup with minikube, go to [INSTALLATION.md](./INSTALL.md).
+The production environment relies on Kubernetes. To setup with minikube, go to [INSTALLATION.md](./INSTALL.md).
 
 ## What Is a Dealer?
 
@@ -26,7 +26,7 @@ Ex: forward contracts, futures contracts and other derivatives.
 
 ## How to hedge bitcoin
 
-One of the simplest strategy to hedge a certain amount of bitcoin in USD is to promise to sell at a future date a specific quantity of USD for a specific amount of bitcoins all determined today, i.e. short (be the seller) an inverse bitcoin futures contract.
+One of the simplest strategies to hedge a certain amount of bitcoin in USD is to promise to sell at a future date a specific quantity of USD for a specific amount of bitcoins all determined today, i.e. short (be the seller) an inverse bitcoin futures contract.
 
 - Ex. A user received 1 bitcoin. The price of bitcoin is 10,000.00 USD. 
 The user elects to keep the USD amount stable, for 1 month, regardless of the price of bitcoin in USD.
